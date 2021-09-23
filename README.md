@@ -1,1 +1,2 @@
 - [ ] `pip install kima`
+- [ ] learn how to use [autodiff](https://github.com/autodiff/autodiff/)
